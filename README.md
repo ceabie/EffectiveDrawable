@@ -11,7 +11,7 @@
 - **Notes: Because instant-run of 2.0.0 above is incompatible with multidex, DexKnife is auto disabled when instant-run mode.
 It will auto enable when disabled instant-run or in packaging release.(minsdk < 21)**
 
-<a href="#dexknife 中文">中文</a>
+<a href="#dexknife中文">中文</a>
 
 ## Update Log
 
@@ -131,7 +131,7 @@ and then, set your app
 4.run your app
 
 
-# DexKnife 中文
+# DexKnife中文
 
 >一个简单的将指定使用通配符包名分包到第二个dex中gradle插件。(使用疑问查看 特性)
 >同时支持 android gradle plugin 2.2.0 multidex.
