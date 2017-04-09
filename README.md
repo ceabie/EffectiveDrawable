@@ -13,6 +13,9 @@ It will auto enable when disabled instant-run or in packaging release.(minsdk < 
 
 <a href="#dexknife中文">中文</a>
 
+
+[中文2](#dexknife中文)
+
 ## Update Log
 
     1.6.1: Compatible with android gradle plugin 2.3.0, auto disable when build with ART-Runtime (See Features 8).
